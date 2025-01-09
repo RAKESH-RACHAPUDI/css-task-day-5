@@ -4,14 +4,13 @@
     height: 300px;
     margin: 0px;
     background-color: greenyellow;
-    padding: 2px;
     
 }
 .item-1{
     display: flex;
     justify-content: center;
     margin: 2px;
-    padding: 0px;
+   
     
 }
 
@@ -29,7 +28,7 @@
 }
 .form{
     display: flex;
-    width: 300px;
+    width: 200px;
     height: 100px;
     justify-content: center;
     align-items: center;
@@ -60,8 +59,7 @@ width: 58%;
 input{
     padding:6px;
     margin: 2px;
-    border: 5px;
-  
+    
 
 }
 .item-4{
@@ -69,6 +67,7 @@ input{
     display: flex;
    justify-content: center;
     margin: 28px;
+    padding: 4px;
     
 
 }
