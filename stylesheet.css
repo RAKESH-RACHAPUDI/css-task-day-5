@@ -50,19 +50,17 @@
     color:blueviolet
 }
 .item-8{
-width: 53%;
+width: 58%;
     border: 2px;
     padding: 6px;
     margin:2px;
     background-color:  skyblue;
     
    display: flex;
-    justify-content: space-around; 
+    justify-content: space-around;
+    text-decoration: none; 
+     text-decoration-line: underline;
 }
-
-
-
-
 input{
     padding:6px;
     margin: 2px;
@@ -73,6 +71,7 @@ input{
     display: flex;
    justify-content: center;
     margin: 40px;
+    padding: 10px;
     
 
 }
@@ -98,7 +97,3 @@ input{
     justify-content: center;
     align-items: center;
 }
-
-
-
-
